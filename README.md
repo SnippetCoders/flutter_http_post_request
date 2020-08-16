@@ -1,16 +1,16 @@
-# Flutter Login UI with HTTP Post Request
+# Flutter Dashboard Screen with HTTP Get Request
 
-<img src="http://img.youtube.com/vi/_Kw4BfNX1-4/maxresdefault.jpg">
+<img src="http://img.youtube.com/vi/ZrlLEpSTihQ/maxresdefault.jpg">
 
-This snippet code is regarding how to make Login Screen using HTTP Post Request in Flutter Application, with just few lines of code.
+This snippet code is regarding how to make Dashboard Screen with Login/Logout Functionality using HTTP Get Request in Flutter Application, with just few lines of code.
 
 Watch Video :
-https://youtu.be/_Kw4BfNX1-4
+https://youtu.be/ZrlLEpSTihQ
 
 If you like my work , you can support me by donating through PayPal:
 http://www.paypal.me/iSharpeners
 
-#Flutter #LoginUI #HTTPPostRequest #SnippetCoder #FlutterTutorial #Dart #Code
+#Flutter #DashboardUI #HTTPGetRequest #SnippetCoder #FlutterTutorial #Dart #Code
 
 
 Subscribe to the YouTube channel to learn about the latest technologies that will help you learn new things, Stay tuned for regular updates.
